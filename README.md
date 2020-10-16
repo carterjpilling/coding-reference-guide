@@ -95,13 +95,16 @@ Reference Table
     <li>CSS watches the changes. </li>
     <li>max-width or min-width</li>
 
-    <li>https://www.w3schools.com/css/css3_mediaqueries.asp</li>
-    <li>https://www.w3schools.com/cssref/css3_pr_mediaquery.asp</li>
-  </ul>
-</li>
-```js 
+    ```js 
 @media only screen and (min-width: 480px){}
 ```
+
+    https://www.w3schools.com/css/css3_mediaqueries.asp
+    https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
+  </ul>
+</li>
+
+
 </details>
 
 <details>
