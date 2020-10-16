@@ -94,16 +94,15 @@ Reference Table
     <li>Used to check resolution change/orientation change/device.</li>
     <li>CSS watches the changes. </li>
     <li>max-width or min-width</li>
-
-    ```js 
-@media only screen and (min-width: 480px){}
-```
-
     https://www.w3schools.com/css/css3_mediaqueries.asp
     https://www.w3schools.com/cssref/css3_pr_mediaquery.asp
+
   </ul>
 </li>
 
+```js 
+@media only screen and (min-width: 480px){}
+```
 
 </details>
 
