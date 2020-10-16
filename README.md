@@ -2,7 +2,7 @@
 
 
 Reference Table
-1. [HTML](#HTML-Section)
+1. [HTML Section](#HTML-Section)
 2. [JavaScript](#Javascript-Section)
 3. [React](#React-Section)
 4. [CSS](#CSS-Section)
@@ -11,7 +11,8 @@ Reference Table
 6. [Whiteboarding](#Whiteboaring-Section)
 7. [Interview Question](#Interview-Questions-Section)
 
-## HTML
+## HTML Section
+
 <details>
 <summary>Semantic HTML</summary>
 </details>
